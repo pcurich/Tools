@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accounts xmlns="urn:accounting">
+	<account name="AC1">100</account>
+	<account name="AC12">276</account>
+	<account name="AC7">95</account>
+</accounts>
